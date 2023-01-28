@@ -1,0 +1,1 @@
+A webapp that can increment or decrement a number on the screen and reset the number to zero. Made with HTML, CSS, and JavaScript.

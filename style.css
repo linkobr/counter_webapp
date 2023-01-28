@@ -1,0 +1,40 @@
+body {
+    background-color:#e1b382
+}
+
+img {
+    height:50px;
+    width:50px;
+}
+
+img:hover{
+    filter:invert();
+}
+
+.Heading {
+    text-align: center;
+    font-family: Verdana;
+}
+
+.Counter {
+    text-align: center;
+    font-family: Verdana;
+}
+.button{
+    font-size: 25px;
+    background-color: transparent;
+    border: none;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+#Number {
+    font-size: 25px;
+}
+
+
+p {
+    text-align: center;
+    font-size: 25px;
+    font-family: Verdana;
+}
